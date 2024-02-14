@@ -71,7 +71,7 @@ const CarDetails = ({ isOpen, closeModal, car }: CarDetailsProps) => {
 												<Image
 													src={generateCarImageUrl(
 														car,
-														29
+														'29'
 													)}
 													alt="car model"
 													fill
@@ -83,7 +83,7 @@ const CarDetails = ({ isOpen, closeModal, car }: CarDetailsProps) => {
 												<Image
 													src={generateCarImageUrl(
 														car,
-														33
+														'33'
 													)}
 													alt="car model"
 													fill
@@ -95,7 +95,7 @@ const CarDetails = ({ isOpen, closeModal, car }: CarDetailsProps) => {
 												<Image
 													src={generateCarImageUrl(
 														car,
-														13
+														'13'
 													)}
 													alt="car model"
 													fill
